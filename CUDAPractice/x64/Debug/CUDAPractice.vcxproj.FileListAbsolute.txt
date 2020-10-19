@@ -1,0 +1,2 @@
+C:\Users\ashro\Documents\CODE\CUDAPractice\x64\Debug\CUDAPractice.exe
+C:\Users\ashro\Documents\CODE\CUDAPractice\x64\Debug\CUDAPractice.pdb
